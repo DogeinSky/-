@@ -1,0 +1,8 @@
+Review the content and the concepts we've talked about.
+
+1. Given that we have a dataset containing the heights of all people in China, how shall we draw the frequency plot/histogram of the height. Further, how shall we derive the distribution from this histogram?
+2. Let's still focus on the assumed height dataset above. If we say the height is normally distributed in the investigated population, how would your histogram look like?
+3. How to get the sampling distribution of the population dataset mentioned above?
+4. Explain the Central Limit Theorem in your own words. (Hint: pay attention to the explanation of 'Resampling')
+5. Assuming that you are a farmer, now you are interested in whether the average height of all crops you planted is around 25cm. Obviously it is unrealistic to measure the height of each crop and then average them. By making use of the hypothesis testing knowledge mentioned in the course, try to formulate your strategy for this problem. (Hint: 1-sample t-test)
+6. If you get p = .04 from a statistical test, how shall you interpret this value to a person who has never learned statistics?
