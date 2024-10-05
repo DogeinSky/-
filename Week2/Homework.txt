@@ -1,0 +1,13 @@
+1. Analyze the situations given below and try to list which method we have mentioned in the course should be used:
+1) We want to test whether the average height of all Shanghai residents significantly differs from 170cm, given the population variance/standard deviation is known;
+2)  We want to test whether the average height of all Shanghai residents significantly differs from 170cm, given the population variance/standard deviation is unknown;
+3) We want to test whether the average height of all Shanghai residents significantly differs from that of all Hangzhou residents.
+
+2. Now for all situations given above, try to formulate your null hypothesis and alternative hypothesis and also write down the formula for the corresponding test statistics.
+
+3. You will assist a research group to conduct a drug experiment to test the effect of the drug. Please consider the questions related to power analysis below:
+1) Which factors may influence the final statistical power? What's the relationship between each of those factors and the power? How shall we understand these relationships intuitively?
+2) Assuming the alpha level hasn't been determined, and the budget of the project is very limited (which means the final sample size may be low). Would you suggest the principal investigator use a high or low alpha level?
+3) According to the literature, it can be inferred that the effect size of the new drug may range from 0.3 to 0.5. What effect size shall we use as the input for the power analysis? If the researcher uses the maximum effect size, what shall we warn him/her?
+
+4. Can you mathematically explain why we need to use paired t-test for dependent data instead of independent t-test?
