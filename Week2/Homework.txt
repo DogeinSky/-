@@ -1,6 +1,6 @@
 1. Analyze the situations given below and try to list which method we have mentioned in the course should be used:
 1) We want to test whether the average height of all Shanghai residents significantly differs from 170cm, given the population variance/standard deviation is known;
-2)  We want to test whether the average height of all Shanghai residents significantly differs from 170cm, given the population variance/standard deviation is unknown;
+2) We want to test whether the average height of all Shanghai residents significantly differs from 170cm, given the population variance/standard deviation is unknown;
 3) We want to test whether the average height of all Shanghai residents significantly differs from that of all Hangzhou residents.
 
 2. Now for all situations given above, try to formulate your null hypothesis and alternative hypothesis and also write down the formula for the corresponding test statistics.
